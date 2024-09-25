@@ -3,4 +3,6 @@ O código criptografa e descriptografa arquivos usando o algoritmo AES em modo C
 
 O comando no terminal deve ser :    python (nome_do_arquivo_).py "nomeDoArquivo_a_ser_criptografado" chave encrypt/decrypit
 
+Necessário ter instalado as bibliotecas: pycryptodome, os e sys. 
+
 
